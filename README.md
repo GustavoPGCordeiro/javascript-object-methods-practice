@@ -109,7 +109,7 @@ This project was created to practice:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/javascript-object-methods-practice.git
+git clone https://github.com/GustavoPGCordeiro/javascript-object-methods-practice.git
 ```
 
 2. Open the project folder.
